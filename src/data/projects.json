@@ -1,0 +1,262 @@
+{
+  "projects": [
+    {
+      "id": "ibb-filenin-sultanlari",
+      "title": "İBB FİLENİN SULTANLARI KIZ / ERKEK ÖĞRENCİ YURDU",
+      "location": "İstanbul Küçükçekmece Atakent Mahallesi",
+      "category": "Öğrenci Yurdu",
+      "description": "1042 yatak kapasiteli öğrenci yurdu, merkez kütüphane binası ve gençlik merkezi yapım işinin yüklenici olarak yapılması.",
+      "images": [
+        "/images/ibb-filenin-sultanlari/ibb-filenin-sultanlari1.webp",
+        "/images/ibb-filenin-sultanlari/ibb-filenin-sultanlari2.webp"
+      ]
+    },
+    {
+      "id": "ibb-sultanselim-mah-hizmet-binasi",
+      "title": "İBB SULTANSELİM MAH. HİZMET BİNASI GÜÇLENDİRME İNŞAATI",
+      "location": "İstanbul Kağıthane, Sultan Selim Mahallesi",
+      "category": "Hizmet Binası Güçlendirme",
+      "description": "Eski Kağıthane Devlet Hastanesi'nin güçlendirme inşaatının yüklenicisi olarak tamamlanması.",
+      "images": [
+        "/images/ibb-sultanselim-mah-hizmet-binasi/ibb-sultanselim-mah-hizmet-binasi1.webp",
+        "/images/ibb-sultanselim-mah-hizmet-binasi/ibb-sultanselim-mah-hizmet-binasi2.webp"
+      ]
+    },
+    {
+      "id": "istanbul-maslak-kamu-hizmet-binasi",
+      "title": "İSTANBUL MASLAK KAMU HİZMET BİNASI DOĞALTAŞ YAPIM İŞİ",
+      "location": "İstanbul Maslak",
+      "category": "Kamu Hizmet Binası",
+      "description": "Toki - Özyazıcı İnşaat bünyesinde yapılmış olan Kamu Hizmet binasının çeşitli alanlarının ve cephesinin doğaltaş kaplanması işi.",
+      "images": [
+        "/images/istabul-maslak-kamu-hizmet-binasi/istabul-maslak-kamu-hizmet-binasi.webp",
+        "/images/istabul-maslak-kamu-hizmet-binasi/istabul-maslak-kamu-hizmet-binasi2.webp"
+      ]
+    },
+    {
+      "id": "route-istanbul",
+      "title": "ROUTE İSTANBUL",
+      "location": "Unknown",
+      "category": "Konut Projesi",
+      "description": "Route İstanbul projesinde ince yapı işleri uygulamalarının yapılması (Duvar, sıva, boya ve seramik işleri).]",
+      "images": [
+        "/images/route-istanbul/route-istanbul-1.webp",
+        "/images/route-istanbul/route-istanbul-2.webp"
+      ]
+    },
+    {
+      "id": "maltepe-mimar-sinan-erkek-ogrenci-yurdu",
+      "title": "MALTEPE MİMAR SİNAN ERKEK ÖĞRENCİ YURDU",
+      "location": "Maltepe, İstanbul",
+      "category": "Öğrenci Yurdu",
+      "description": "Kredi Yurtlar Kurumu 4100 kişi kapasiteli öğrenci yurdunun ince yapı uygulamalarının ve bina güçlendirmesinin yapılması.",
+      "images": [
+        "/images/maltepe-mimar-sinan-erkek-ogrenci-yurdu/maltepe-mimar-sinan-erkek-ogrenci-yurdu-1.webp",
+        "/images/maltepe-mimar-sinan-erkek-ogrenci-yurdu/maltepe-mimar-sinan-erkek-ogrenci-yurdu-2.webp"
+      ]
+    },
+    {
+      "id": "esenler-havaalani-kentsel-donusum",
+      "title": "ESENLER HAVAALANI MAHALLESİ KENTSEL DÖNÜŞÜM",
+      "location": "Esenler Havaalanı Mahallesi",
+      "category": "Kentsel Dönüşüm",
+      "description": "Emlak Konut bünyesinde 970 konut ve 23 ticari üniteden oluşan projenin ince yapı uygulamalarının yapılması.",
+      "images": [
+        "/images/esenler-havaalani-kentsel-donusum/esenler-havaalani-kentsel-donusum-1.webp",
+        "/images/esenler-havaalani-kentsel-donusum/esenler-havaalani-kentsel-donusum-2.webp"
+      ]
+    },
+    {
+      "id": "istanbul-eyupsultan-genclik-merkezi",
+      "title": "İSTANBUL ETÜPSULTAN GENÇLİK MERKEZİ",
+      "location": "İstanbul Eyüpsultan",
+      "category": "Gençlik Merkezi",
+      "description": "İstanbul Eyüpsultan Gençlik merkezi binasının dış cephe doğaltaş kaplaması ve ince yapı uygulamalarının yapılması.",
+      "images": [
+        "/images/route-istanbul/route-istanbul-1.webp",
+        "/images/route-istanbul/route-istanbul-2.webp"
+      ]
+    },
+    {
+      "id": "vira-erenkoy",
+      "title": "VİRA ERENKÖY",
+      "location": "Erenköy",
+      "category": "Kentsel Dönüşüm",
+      "description": "Main Yapı bünyesinde 40 konuttan oluşan kentsel dönüşüm projesinin anahtar teslim yapılması.",
+      "images": [
+        "/images/vira-erenkoy/vira-erenkoy.webp",
+        "/images/vira-erenkoy/vira-erenkoy-2.webp"
+      ]
+    },
+    {
+      "id": "maltepe-ermoda-is-merkezi",
+      "title": "MALTEPE ERMODA İŞ MERKEZİ",
+      "location": "Maltepe",
+      "category": "İş Merkezi",
+      "description": "Ermoda İş Merkezi binasının yeniden yapım işlerinin anahtar teslim yapılması. ",
+      "images": [
+        "/images/maltepe-ermoda-is-merkezi/maltepe-ermoda-is-merkezi.webp",
+        "/images/maltepe-ermoda-is-merkezi/maltepe-ermoda-is-merkezi-2.webp"
+      ]
+    },
+    {
+      "id": "sapanca-bahar-evleri",
+      "title": "SAPANCA BAHAR EVLERİ",
+      "location": "Sapanca",
+      "category": "Butik Villa Sitesi",
+      "description": "Main Yapı bünyesinde, 6 adet havuzlu villadan oluşan butik villa sitesinin anahtar teslim yapılması.",
+      "images": [
+        "/images/sapanca-bahar-evleri/sapanca-bahar-evleri-1.webp",
+        "/images/sapanca-bahar-evleri/sapanca-bahar-evleri-2.webp"
+      ]
+    },
+    {
+      "id": "basaksehir-mavera-saraylari",
+      "title": "BAŞAKŞEHİR MAVERA SARAYLARI",
+      "location": "İstanbul - Başakşehir",
+      "category": "Konut Projesi",
+      "description": "Makro İnşaat bünyesinde İstanbul - Başakşehirde yapılan Mavera Sarayları Projesinin doğaltaş kaplama işlerinin yapılması.",
+      "images": [
+        "/images/basaksehir-mavera-saraylari/basaksehir-mavera-saraylari-1.webp",
+        "/images/basaksehir-mavera-saraylari/basaksehir-mavera-saraylari-2.webp"
+      ]
+    },
+    {
+      "id": "giris-kayasehir",
+      "title": "GİRİŞ KAYAŞEHİR",
+      "location": "İstanbul - Başakşehir",
+      "category": "Konut Projesi",
+      "description": "Makro İnşaat bünyesinde İstanbul - Başakşehirde yapılan Giriş Kayaşehir Projesinin doğaltaş kaplama işlerinin yapılması.",
+      "images": [
+        "/images/giris-kayasehir/giris-kayasehir-1.webp",
+        "/images/giris-kayasehir/giris-kayasehir-2.webp"
+      ]
+    },
+    {
+      "id": "basaksehir-540-4-parsel",
+      "title": "BAŞAKŞEHİR 540-4 PARSEL",
+      "location": "İstanbul - Başakşehir",
+      "category": "Ticari Alanlar Projesi",
+      "description": "Makro İnşaat bünyesinde İstanbul - Başakşehirde yapılan 540-4 Parsel Ticari Alanlar Projesinin doğaltaş kaplama işlerinin yapılması.",
+      "images": [
+        "/images/basaksehir-540-4-parsel/basaksehir-540-4-parsel-1.webp",
+        "/images/basaksehir-540-4-parsel/basaksehir-540-4-parsel-2.webp"
+      ]
+    },
+    {
+      "id": "tema-istanbul",
+      "title": "TEMA İSTANBUL",
+      "location": "İstanbul",
+      "category": "Konut Projesi",
+      "description": "Tema İstanbul Konut projesi kapsamında doğaltaş kaplama işlerinin yapılması.",
+      "images": [
+        "/images/tema-istanbul/tema-istanbul.webp"
+      ]
+    },
+    {
+      "id": "medikule",
+      "title": "MEDİKULE",
+      "location": "İstanbul - Başakşehir",
+      "category": "Konut Projesi",
+      "description": "Makro İnşaat bünyesinde İstanbul - Başakşehir Medikule Projesinde doğaltaş kaplama işlerinin yapılması.",
+      "images": [
+        "/images/medikule/medikule-1.webp",
+        "/images/medikule/medikule-2.webp"
+      ]
+    },
+    {
+      "id": "basaksehir-bahcetepe",
+      "title": "BAŞAKŞEHİR BAHÇETEPE",
+      "location": "İstanbul - Başakşehir",
+      "category": "Konut Projesi",
+      "description": "Emlak Konut Makro İnşaat ve Akyapı ortak girişimi bünyesinde İstanbul - Başakşehir Bahçetepe Projesinde doğaltaş kaplama işlerinin yapılması.",
+      "images": [
+        "/images/basaksehir-bahcetepe/basaksehir-bahcetepe.webp"
+      ]
+    },
+    {
+      "id": "afad-depolari",
+      "title": "AFAD DEPOLARI",
+      "location": "Manisa, Aksaray ve Kırıkkale",
+      "category": "Depo Yapım İşi",
+      "description": "Toki - Özyazıcı İnşaat bünyesinde Manisa, Aksaray ve Kırıkkale'de yapılan Afad Depolarının yapım işi.",
+      "images": [
+        "/images/afad-depolari/afad-depolari.webp",
+        "/images/afad-depolari/afad-depolari-2.webp"
+      ]
+    },
+    {
+      "id": "ibb-mahmut-bayram-imamhatip-ortaokulu",
+      "title": "İBB MAHMUT BAYRAM İMAMHATİP ORTAOKULU",
+      "location": "Unknown",
+      "category": "Okul",
+      "description": "Kiptaş- Özyazıcı İnşaat bünyesinde İbb Mahmut Bayram İmamhatip Orta Okulu'nun ince yapım işleri uygulaması.",
+      "images": [
+        "/images/ibb-mahmut-bayram-imamhatip-ortaokulu/ibb-mahmut-bayram-imamhatip-ortaokulu.webp"
+      ]
+    },
+    {
+      "id": "istanbul-eyupsultan-seta-vakfi",
+      "title": "İSTANBUL EYÜPSULTAN SETA VAKFI",
+      "location": "Eyüpsultan",
+      "category": "Vakıf Binası",
+      "description": "Kiptaş- Özyazıcı İnşaat bünyesinde Eyüpsultan Seta Vakfı binasının dış cephe, ve çeşitli alanlarının doğaltaş kaplama işlerinin yapılması.",
+      "images": [
+        "/images/istanbul-eyupsultan-seta-vakfi/istanbul-eyupsultan-seta-vakfi.webp",
+        "/images/istanbul-eyupsultan-seta-vakfi/istanbul-eyupsultan-seta-vakfi-2.webp"
+      ]
+    },
+    {
+      "id": "kilis-elbeyli-multeci-kampi",
+      "title": "KİLİS ELBEYLİ MÜLTECİ KAMPI",
+      "location": "Kilis Elbeyli",
+      "category": "Mülteci Kampı",
+      "description": "Özyazıcı İnşaat bünyesinde Kilis Elbeyli Mülteci kampı yerleşkesinin doğaltaş kaplama işlerinin yapılması.",
+      "images": [
+        "/images/kilis-elbeyli-multeci-kampi/kilis-elbeyli-multeci-kampi.webp"
+      ]
+    },
+    {
+      "id": "kartal-cevizli-beyaz-mesken",
+      "title": "KARTAL CEVİZLİ BEYAZ MESKEN",
+      "location": "İstanbul - Kartal",
+      "category": "Konut",
+      "description": "Main Yapı bünyesinde İstanbul - Kartal Beyeaz Mesken Konutlarının anahtar teslim yapılması.",
+      "images": [
+        "/images/kartal-cevizli-beyaz-mesken/kartal-cevizli-beyaz-mesken.webp",
+        "/images/kartal-cevizli-beyaz-mesken/kartal-cevizli-beyaz-mesken-2.webp"
+      ]
+    },
+    {
+      "id": "nish-adalar",
+      "title": "NİSH ADALAR",
+      "location": "İstanbul Maltepe",
+      "category": "Konut, Sosyal Alan ve Cami",
+      "description": "Kiptaş - Özyazıcı İnşaat bünyesinde İstanbul Maltepe'de Nish Adalar Konut, sosyal alan ve Camii projesinin doğaltaş kaplama işlerinin yapılması.",
+      "images": [
+        "/images/nish-adalar/nish-adalar.webp"
+      ]
+    },
+    {
+      "id": "toki-trabzon-234-konut-sosyal-tesis-camii",
+      "title": "TOKİ TRABZON 234 KONUT - SOSYAL TESİS - CAMİİ",
+      "location": "Trabzon Vakfıkebir",
+      "category": "Konut, Sosyal Tesis ve Cami",
+      "description": "Main Yapı bünyesinde Trabzon Vakfıkebir'de 234 konut sosyal tesis ve camii yapım işlerinin anahtar teslim yapılması.",
+      "images": [
+        "/images/toki-trabzon/toki-trabzon-1.webp",
+        "/images/toki-trabzon/toki-trabzon-2.webp"
+      ]
+    },
+    {
+      "id": "kiptas-adatepe-konutlari",
+      "title": "KİPTAŞ ADATEPE KONUTLARI",
+      "location": "İstanbul Maltepe",
+      "category": "Konut",
+      "description": "Kiptaş - Özyazıcı İnşaat bünyesinde İstanbul Maltepe'de Adatepe 878 Konut Projesinin Doğaltaş kaplama işlerinin yapılması.",
+      "images": [
+        "/images/kiptas-adatepe/kiptas-adatepe.webp"
+      ]
+    }
+  ]
+}
