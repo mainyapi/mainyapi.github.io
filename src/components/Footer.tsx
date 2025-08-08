@@ -16,7 +16,7 @@ const Footer: React.FC = () => {
         </div>
         <div className="border-t border-gray-700 pt-6">
           <p className="text-sm">
-            &copy; {new Date().getFullYear()} mainyapi.com.tr. Tüm hakları saklıdır.
+            &copy; {new Date().getFullYear()} mainyapi.com Tüm hakları saklıdır.
           </p>
         </div>
       </div>

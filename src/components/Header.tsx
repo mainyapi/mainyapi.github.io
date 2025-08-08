@@ -23,7 +23,7 @@ const Header: React.FC = () => {
             </svg>
           </button>
         </div>
-<ul className={`md:flex space-x-6 ${isOpen ? 'block' : 'hidden'} md:block absolute md:static bg-white md:bg-transparent w-full md:w-auto left-0 top-full shadow-md md:shadow-none py-4 md:py-0 text-center`}>
+<ul className={`absolute left-0 top-full w-full bg-white shadow-md md:shadow-none md:static md:flex md:w-auto md:space-x-6 md:bg-transparent ${isOpen ? 'flex flex-col items-center py-4' : 'hidden'}`}>
   <li><a href="#hero" className="block px-4 py-2 text-xl text-gray-700 hover:text-blue-600 transition duration-300">Anasayfa</a></li>
   <li><a href="#about" className="block px-4 py-2 text-xl text-gray-700 hover:text-blue-600 transition duration-300">Hakkımızda</a></li>
   <li><a href="#projects" className="block px-4 py-2 text-xl text-gray-700 hover:text-blue-600 transition duration-300">Projeler</a></li>
